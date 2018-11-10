@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\algorithms\binarysearch\binarysearch\main.cpp(43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  c:\algorithms\binarysearch\binarysearch\main.cpp(18): note: see reference to function template instantiation 'int binarySearch<int>(std::vector<int,std::allocator<_Ty>>,T,unsigned int,unsigned int)' being compiled
+          with
+          [
+              _Ty=int,
+              T=int
+          ]
+c:\algorithms\binarysearch\binarysearch\main.cpp(53): warning C4715: 'binarySearch<int>': not all control paths return a value
+  BinarySearch.vcxproj -> C:\Algorithms\BinarySearch\Debug\BinarySearch.exe
+  BinarySearch.vcxproj -> C:\Algorithms\BinarySearch\Debug\BinarySearch.pdb (Partial PDB)
